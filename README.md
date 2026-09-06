@@ -1,1 +1,3 @@
-# tugas_komstat_hafidz
+# Muhammad Hafidz Syawalludin
+## 33382500??
+### Komputasi Statistika
