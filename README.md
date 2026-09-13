@@ -1,8 +1,8 @@
 #Komputasi_Statistika
 
-##Nama:Muhamad_Hafidz_Syawalludin
+Nama:Muhamad_Hafidz_Syawalludin
 
-###Nim_3338250023
+Nim:3338250023
 
-####Jurusan_statistika
+Jurusan:statistika
 
