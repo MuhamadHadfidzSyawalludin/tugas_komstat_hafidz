@@ -1,3 +1,5 @@
-# Muhammad Hafidz Syawalludin
-## 3338250023
-### Komputasi Statistika
+#Komputasi Statistika
+Nama:Muhamad Hafidz Syawalludin
+Nim:3338250023
+Jurusan:statistika
+
